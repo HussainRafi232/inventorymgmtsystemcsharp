@@ -1,5 +1,7 @@
 # inventorymgmtsystemcsharp
 
+Inventory Management System (Based on C# Windows Forms and SQL Server)
+
 I created this project for my Database Systems Lab in university, decided to share this project incase someone else needs it as well. 
 
 I've included the complete project along with the SQL file required to generate the tables needed in the database
